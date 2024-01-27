@@ -1,4 +1,4 @@
-# Full Stack Development Course - Movie Review Application
+# Full Stack Development - Movie Review Application
 
 Welcome to the **Full Stack Development Course** where you will learn how to create a movie review application using MongoDB for the database, Java and Spring Boot for the backend, and React for the frontend. This project features a separation of concerns between the client code and the server code, allowing them to evolve independently.
 
@@ -52,6 +52,3 @@ This course is divided into two main sections: Backend and Frontend.
 ## Acknowledgments
 This course was made possible by a grant from **MongoDB**.
 
-## Supporters
-Special thanks to our Champion and Sponsor supporters:
-- Nattir
