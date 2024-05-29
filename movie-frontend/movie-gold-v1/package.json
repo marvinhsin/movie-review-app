@@ -39,5 +39,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marvinhsin/movie-review-app.git"
+  },
+  "author": "Marvin Hsin",
+  "license": "ISC",
+  "description": "This is a movie review application using MongoDB for the database, Java and Spring Boot for the backend, and React for the frontend. This project features a separation of concerns between the client code and the server code, allowing them to evolve independently.",
+  "keywords": [
+    "react",
+    "heroku"
+  ],
+  "scripts": {
+    "heroku-postbuild": "npm run build"
   }
 }
