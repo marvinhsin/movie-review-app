@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: dev.marvinhsin.movies.MoviesApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.203 s -- in dev.marvinhsin.movies.MoviesApplicationTests
