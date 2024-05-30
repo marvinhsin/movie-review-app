@@ -1,0 +1,16 @@
+# Ignore files with .log extension
+*.log
+
+# Ignore a specific directory
+/temp/
+
+# Ignore files with a specific name
+secret.txt
+
+# Ignore all files in a specific directory
+/node_modules/
+
+# Ignore compiled binaries or build artifacts
+*.class
+target/
+
